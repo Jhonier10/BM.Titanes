@@ -12,7 +12,7 @@ html {
 body{
     background-color: rgba(255, 153, 0, 0.26) !important; 
     margin-bottom: 2.5em;
-    
+    background-image: url(./img/fondo.png);
 }
 
 .icono{
@@ -57,8 +57,9 @@ h3{
     margin-left: 1.875em;
     min-height: 25em;
     min-width: 45%;
-    box-shadow: 0em 0em 0.3125em rgb(0, 0, 0);
-    background-color: rgba(0, 0, 0, 0.212);
+    box-shadow: 0em 0em 0.3125em rgb(255, 255, 255);
+    background-color: rgba(238, 158, 10, 0.233);
+    color: white;
 }
 
 
