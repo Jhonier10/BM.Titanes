@@ -51,7 +51,7 @@ h3{
     
 }
 
-.EJ{
+.divs{
     margin-top: 2.5em;
     margin-right: 1.875em;
     margin-left: 1.875em;
@@ -61,27 +61,7 @@ h3{
     background-color: rgba(0, 0, 0, 0.212);
 }
 
-.OR{
-    margin-top: 2.5em;
-    margin-right: 1.875em;
-    margin-left: 1.875em;
-    min-height: 25em;
-    min-width: 45%;
-    box-shadow: 0em 0em 0.625em rgb(0, 0, 0);
-    background-color: rgba(0, 0, 0, 0.212);
-}
 
-.PAL{
-    margin-top: 2.5em;
-    margin-left: 1.875em;
-    margin-right: 1.875em;
-    min-height: 20em;
-    width: 95%;
-    float: left;
-    box-shadow: 0em 0em 0.3125em rgb(255, 153, 0);
-    background-color: rgba(0, 0, 0, 0.212);
-
-}
 
 h5{
     padding-left: 1.875em;
