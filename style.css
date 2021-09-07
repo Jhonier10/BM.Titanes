@@ -10,7 +10,6 @@ html {
 }
 
 body{
-    background-color: rgba(255, 153, 0, 0.26) !important; 
     margin-bottom: 2.5em;
     background-image: url(./img/fondo.png);
 }
@@ -44,9 +43,11 @@ body{
     margin: 0 auto; 
 }
 
+
+
 h3{
     text-align: center; 
-    padding: 2.5em;
+    padding: 1em;
     background-color: rgba(255, 153, 0, 0.514);
     
 }
@@ -55,10 +56,10 @@ h3{
     margin-top: 2.5em;
     margin-right: 1.875em;
     margin-left: 1.875em;
-    min-height: 25em;
+    min-height: 10em;
     min-width: 45%;
     box-shadow: 0em 0em 0.3125em rgb(255, 255, 255);
-    background-color: rgba(238, 158, 10, 0.233);
+    
     color: white;
 }
 
@@ -66,6 +67,13 @@ h3{
 
 h5{
     padding-left: 1.875em;
+    color: rgb(255, 153, 0);
+}
+
+h6{
+    padding-left: 1.875em;
+    padding-top: 20px;
+    color: rgb(255, 153, 0); 
 }
 
 .text{
